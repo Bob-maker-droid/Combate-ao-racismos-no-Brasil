@@ -1,0 +1,38 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+    background-color: rgb(179, 126, 83);
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+.titulo {text-align: center;}
+.conteudo {color:rgb(231, 193, 146) ;
+    text-align:justify;
+}
+
+p.esquerda {text-align:justify;
+    margin-left: 0%;
+    margin-left: 20px;
+    margin-left: auto;
+    margin-top: 0px;
+    max-width: 1000px;
+    
+    margin-right: auto;
+}
+.link{ font-family:'Courier New', Courier, monospace ;}
+.Topicos{
+    text-align:justify;
+}
+ul.Central {color:rgb(231, 206, 174) ;
+    text-align: initial;
+    margin-left: 0%;
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imagem {
+    display: block;
+    margin-top: 20px;
+    max-width: 100%;
+    height: auto;
+}
